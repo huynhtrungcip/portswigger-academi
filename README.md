@@ -108,13 +108,13 @@ By following this repository, you'll gain hands-on experience and improve your w
 
 ## 📫 **Get in Touch**
 
-If you have any questions, feel free to [open an issue](https://github.com/huynhtrungcip/picoCTF/issues) or reach out via [email](mailto:youremail@example.com).
+If you have any questions, feel free to [open an issue](https://github.com/huynhtrungcip/picoCTF/issues) or reach out via [email](mailto:huynhchitrungcip@gmail.com).
 
 ---
 
 ## 📝 **License**
 
-This repository is licensed under the [MIT License](LICENSE).
+This repository is licensed under the [Apache License 2.0](LICENSE).
 
 ---
 
